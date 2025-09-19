@@ -2,7 +2,7 @@
 
 A responsive, multipage website for Golden Eggs Poultry Farm built with HTML5, CSS3, and JavaScript. The site highlights the farm’s mission, poultry products, projects, and provides a way for customers to get in touch.
 
-## Live Demo: [Add your deployed site link here once hosted]
+## Live Demo: [[GreenField Farms](https://amazingawwal.github.io/plp-webtechnologies/)]
 
 # Project Overview
 
@@ -23,7 +23,7 @@ The goal of this project is to showcase a modern, professional website for a far
 - HTML5 – semantic structure
 - CSS3 – responsive design, animations, flex/grid layout
 - JavaScript – interactivity (menu toggle, form validation, etc.)
-- GitHub Pages / Netlify / Vercel – deployment options
+- GitHub Pages 
 
 
 ## Future Improvements
